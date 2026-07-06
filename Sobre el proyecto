@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SOBRE EL PROYECTO – instafauna snapshot colombia</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+
+<header class="site-hero" style="background-image:url('https://wpcom.wp.txstate.edu/files/2026/06/cropped-DSC_2416-scaled-3.jpg');">
+  <div class="top-links">
+    <a href="https://wpcom.wp.txstate.edu/wp-login.php">Iniciar sesión</a>
+  </div>
+  <div class="hero-inner">
+    <div class="brand">
+      <a href="index.html"><img src="https://wpcom.wp.txstate.edu/files/2026/06/cropped-Snapshot-Colombia-scaled-1.png" alt="instafauna snapshot colombia"></a>
+      <h1><a href="index.html">instafauna snapshot colombia</a></h1>
+    </div>
+  </div>
+</header>
+
+<nav class="main-nav" aria-label="Menú principal">
+  <ul>
+    <li><a href="index.html">INICIO</a></li>
+    <li><a href="sobre-el-proyecto.html" class="active">SOBRE EL PROYECTO</a></li>
+    <li><a href="inscripcion-y-protocolo.html">INSCRIPCIÓN Y PROTOCOLO</a></li>
+    <li><a href="aliados.html">ALIADOS</a></li>
+    <li><a href="contacto.html">CONTACTO</a></li>
+  </ul>
+</nav>
+
+<main id="content">
+
+<h1 class="page-title">SOBRE EL PROYECTO</h1>
+<p>El proyecto Snapshot, iniciado en EE.UU. en 2019 por el Instituto Smithsonian, recopila datos anuales con cámaras trampa para monitorear comunidades de mamíferos mediante un protocolo estandarizado (<a href="https://www.snapshot-usa.org/" target="_blank" rel="noopener">https://www.snapshot-usa.org/</a>).</p>
+<p>En 2021, se extendió a Europa; en 2023, a Japón; y en 2025, a Brasil, Chile y Paraguay, <strong>con planes de llegar a Colombia en 2026</strong>.</p>
+<p>Snapshot facilita la colaboración entre participantes, fomenta la participación comunitaria en conservación y comparte públicamente los datos para investigación, gestión y educación.</p>
+<p>Todos los datos se gestionan en Wildlife Insights, que usa inteligencia artificial para identificar especies y promover la colaboración a nivel nacional (<a href="https://snapshot-global.org/" target="_blank" rel="noopener">https://snapshot-global.org/</a>).</p>
+<p><strong>¡Ahora estamos organizando InstaFauna Snapshot Colombia 2026!</strong></p>
+<p><strong>¡Únete!</strong></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <h3>Archives</h3>
+      <p>No archives to show.</p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <p>No hay categorías</p>
+    </div>
+    <div class="credit">
+      Sitio migrado desde WordPress · Contenido original © instafauna snapshot colombia
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
